@@ -20,5 +20,10 @@ EasyEMI will allow user to do shopping with Cardless payments with EMI options
 11. Consumers able to sell more ticket with guaranteed money
 12. Merchants makes money via service fee
 
+
+# High-level Architecture Diagram
+![EasyEMI Architecture Diagram](hhttps://github.com/bkvaiude/easyemi/blob/main/EasyEMI.jpgttp://url/to/img.png)
+
+
 [Click here for more details ...](https://github.com/bkvaiude/easyemi/blob/main/Happy%20Workflow.docx "Download the full architecture!")
 
